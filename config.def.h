@@ -8,6 +8,7 @@ static int min_width = 650;                    /* minimum width when centered */
 static const char *fonts[] = {
 	"monospace:size=14",
 	"JoyPixels:pixelsize=10:antialias=true:autohint=true"
+	"LohiDevanagari:pixelsize=10:antialias=true:autohint=true"
 };
 static const unsigned int bgalpha = 0xe0;
 static const unsigned int fgalpha = OPAQUE;
