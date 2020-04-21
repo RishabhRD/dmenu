@@ -6,9 +6,9 @@ static int centered = 0;                    /* -c option; centers dmenu on scree
 static int min_width = 650;                    /* minimum width when centered */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"monospace:size=14",
-	"JoyPixels:pixelsize=10:antialias=true:autohint=true"
-	"LohiDevanagari:pixelsize=10:antialias=true:autohint=true"
+	"monospace:size=16",
+	"JoyPixels:pixelsize=18:antialias=true:autohint=true"
+	"LohiDevanagari:pixelsize=18:antialias=true:autohint=true"
 };
 static const unsigned int bgalpha = 0xe0;
 static const unsigned int fgalpha = OPAQUE;
