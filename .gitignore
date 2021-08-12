@@ -1,3 +1,6 @@
 diff/*
 dmenu
 *.o
+config.h
+*.orig
+*.rej
